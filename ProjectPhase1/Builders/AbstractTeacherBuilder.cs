@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjectPhase1.Builders
+﻿namespace ProjectPhase1.Builders
 {
     public abstract class AbstractTeacherBuilder
     {       

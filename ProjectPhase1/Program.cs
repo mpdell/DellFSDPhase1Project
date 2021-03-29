@@ -1,12 +1,4 @@
-﻿using ProjectPhase1.Builders;
-using ProjectPhase1.Repositories;
-using ProjectPhase1.Strategies;
-using ProjectPhase1.Templates;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
+﻿using ProjectPhase1.Templates;
 
 namespace ProjectPhase1
 {
